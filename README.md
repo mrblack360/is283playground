@@ -16,8 +16,6 @@ Run `dotnet build` to build the project.
 # Running unit tests
 Run `dotnet test` to execute the unit tests via Karma.
 
-# Running end-to-end tests
-Run ng e2e to execute the end-to-end tests via Protractor.
 
 # Further help
 For any concern, don't hesitate to let me know through [email](mailto:maswimrtz@gmail.com) or [WhatsApp](https://wa.me/255744033739).
