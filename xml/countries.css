@@ -1,0 +1,23 @@
+countries {
+  width: 8em;
+  font-weight: bold;
+  font-size: 20px;
+  content: "Oceans";
+  margin: 5px 10px;
+  background-color: #cdf;
+  display: table;
+}
+country {
+  display: table-row;
+}
+language,
+city,
+name,
+population {
+  display: table-cell;
+  padding: 0px 5px;
+  align-items: center;
+}
+language {
+  color: blueviolet;
+}

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE countries SYSTEM "countries.dtd">
+<?xml-stylesheet type="text/css" href="countries.css" ?>
+
 
 <countries>
   <country name="Afghanistan" population="22664136" area="647500">
