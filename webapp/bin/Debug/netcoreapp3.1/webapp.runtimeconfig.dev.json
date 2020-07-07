@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/maswi/.dotnet/store/|arch|/|tfm|",
+      "/home/maswi/.nuget/packages"
+    ]
+  }
+}
