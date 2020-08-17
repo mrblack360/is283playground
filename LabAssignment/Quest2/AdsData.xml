@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/images/Shoe.jpeg</ImageUrl>
+		<NavigateUrl>https://google.com/search?q=shoes</NavigateUrl>
+		<AlternateText>Get your fresh outfit from us</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Shoes</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/Michael.jpeg</ImageUrl>
+		<NavigateUrl>https://google.com/search?q=michael</NavigateUrl>
+		<AlternateText>Grab your well formed suit from us</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Suit</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/Don.png</ImageUrl>
+		<NavigateUrl>https://google.com/search?q=michael</NavigateUrl>
+		<AlternateText>Grab your well formed suit from us</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Suit</Keyword>
+	</Ad>
+<Ad>
+		<ImageUrl>~/images/Marquiz.png</ImageUrl>
+		<NavigateUrl>https://google.com/search?q=michael</NavigateUrl>
+		<AlternateText>Grab your well formed suit from us</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Suit</Keyword>
+	</Ad>
+</Advertisements>
